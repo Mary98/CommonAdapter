@@ -12,7 +12,7 @@ Android Studio只需导入adapter_lib作为module
 
 Eclipse 需要自行添加代码
 
-类型一、
+### 类型一、
 
 普通Item布局推荐直接使用CommonAdapter做适配
 
@@ -72,7 +72,7 @@ Eclipse 需要自行添加代码
 
         });
 
-类型二、
+### 类型二、
 
 多样式ListView 布局(类似微信聊天框)
 
@@ -134,7 +134,7 @@ Eclipse 需要自行添加代码
         }
     }
    
-类型三、
+### 类型三、
 
 ListView和GridView嵌套时(使用ScrollView)
 
