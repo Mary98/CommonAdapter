@@ -1,6 +1,10 @@
 # CommonAdapter
 全能的ListView和GridView适配器
 
+![image](https://github.com/Mary98/CommonAdapter/blob/master/image/single_item_type.png)
+![image](https://github.com/Mary98/CommonAdapter/blob/master/image/mutli_item_type.png)
+![image](https://github.com/Mary98/CommonAdapter/blob/master/image/nesting_item_type.png)
+
 支持多种样式的Item
 
 引用：
